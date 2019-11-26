@@ -1,0 +1,101 @@
+# Loading project Processor
+# Compile of SignExtend.v was successful.
+# Compile of ALU.v was successful.
+# Compile of AluControl.v was successful.
+# Compile of Clock.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of Experimenting.v was successful.
+# Compile of FullAdder.v was successful.
+# Compile of Memory.v was successful.
+# Compile of Mips.v was successful.
+# Compile of Mux.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftRegister.v was successful.
+# 13 compiles, 0 failed with no errors.
+vsim work.MipsTest
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim 
+# Start time: 15:53:02 on Nov 26,2019
+# Loading work.MipsTest
+# Loading work.Clock
+# Loading work.Mips
+# Loading work.ExtendedPC
+# Loading work.FullAdder
+# Loading work.ShiftLeftRegister26
+# Loading work.ShiftLeftRegister
+# Loading work.MuxTwoToOne32
+# Loading work.PC
+# Loading work.InstructionMemory
+# Loading work.MuxTwoToOne5
+# Loading work.RegisterFile
+# Loading work.ControlUnit
+# Loading work.SignExtend
+# Loading work.ExtendedAlu
+# Loading work.AluControl
+# Loading work.Alu
+# Loading work.DataMemory
+# ** Warning: (vsim-3015) E:/hamied/MIPS/Mips/Mips.v(52): [PCDPC] - Port size (26) does not match connection size (1) for port 'full_instruction'. The port definition is at: E:/hamied/MIPS/Mips/PC.v(20).
+#    Time: 0 ns  Iteration: 0  Instance: /MipsTest/mips/pc File: E:/hamied/MIPS/Mips/PC.v
+# ** Warning: (vsim-3015) E:/hamied/MIPS/Mips/Mips.v(52): [PCDPC] - Port size (32) does not match connection size (26) for port 'data1'. The port definition is at: E:/hamied/MIPS/Mips/PC.v(21).
+#    Time: 0 ns  Iteration: 0  Instance: /MipsTest/mips/pc File: E:/hamied/MIPS/Mips/PC.v
+# ** Warning: (vsim-3015) E:/hamied/MIPS/Mips/Mips.v(52): [PCDPC] - Port size (1) does not match connection size (32) for port 'select'. The port definition is at: E:/hamied/MIPS/Mips/PC.v(22).
+#    Time: 0 ns  Iteration: 0  Instance: /MipsTest/mips/pc File: E:/hamied/MIPS/Mips/PC.v
+# ** Warning: (vsim-3015) E:/hamied/MIPS/Mips/PC.v(34): [PCDPC] - Port size (6) does not match connection size (32) for port 'shiftAmmount'. The port definition is at: E:/hamied/MIPS/Mips/ShiftRegister.v(11).
+#    Time: 0 ns  Iteration: 0  Instance: /MipsTest/mips/pc/shiftLeft File: E:/hamied/MIPS/Mips/ShiftRegister.v
+# ** Warning: (vsim-3015) E:/hamied/MIPS/Mips/PC.v(35): [PCDPC] - Port size (6) does not match connection size (32) for port 'shiftAmmount'. The port definition is at: E:/hamied/MIPS/Mips/ShiftRegister.v(4).
+#    Time: 0 ns  Iteration: 0  Instance: /MipsTest/mips/pc/shiftLeft2 File: E:/hamied/MIPS/Mips/ShiftRegister.v
+# ** Warning: (vsim-3015) E:/hamied/MIPS/Mips/Mips.v(63): [PCDPC] - Port size (1) does not match connection size (2) for port 'jump'. The port definition is at: E:/hamied/MIPS/Mips/ControlUnit.v(8).
+#    Time: 0 ns  Iteration: 0  Instance: /MipsTest/mips/controlUnit File: E:/hamied/MIPS/Mips/ControlUnit.v
+# ** Warning: (vsim-3015) E:/hamied/MIPS/Mips/Mips.v(63): [PCDPC] - Port size (2) does not match connection size (1) for port 'aluOp'. The port definition is at: E:/hamied/MIPS/Mips/ControlUnit.v(10).
+#    Time: 0 ns  Iteration: 0  Instance: /MipsTest/mips/controlUnit File: E:/hamied/MIPS/Mips/ControlUnit.v
+run
+# ** Note: $finish    : E:/hamied/MIPS/Mips/Mips.v(101)
+#    Time: 11 ns  Iteration: 1  Instance: /MipsTest
+# 1
+# Break in Module MipsTest at E:/hamied/MIPS/Mips/Mips.v line 101
+# Compile of SignExtend.v was successful.
+# Compile of ALU.v was successful.
+# Compile of AluControl.v was successful.
+# Compile of Clock.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of Experimenting.v was successful.
+# Compile of FullAdder.v was successful.
+# Compile of Memory.v was successful.
+# Compile of Mips.v was successful.
+# Compile of Mux.v was successful.
+# Compile of PC.v failed with 1 errors.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftRegister.v was successful.
+# 13 compiles, 1 failed with 1 error.
+# Compile of SignExtend.v was successful.
+# Compile of ALU.v was successful.
+# Compile of AluControl.v was successful.
+# Compile of Clock.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of Experimenting.v was successful.
+# Compile of FullAdder.v was successful.
+# Compile of Memory.v was successful.
+# Compile of Mips.v was successful.
+# Compile of Mux.v was successful.
+# Compile of PC.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of ShiftRegister.v was successful.
+# 13 compiles, 0 failed with no errors.

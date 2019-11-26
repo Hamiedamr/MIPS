@@ -1,0 +1,103 @@
+D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Mips.v {1 {vlog -work work -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Mips.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Mips
+-- Compiling module MipsTest
+
+Top level modules:
+	MipsTest
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/ControlUnit.v {1 {vlog -work work -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/ControlUnit.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ControlUnit
+-- Compiling module ControlUnit_tb
+
+Top level modules:
+	ControlUnit_tb
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/SignExtend.v {1 {vlog -work Education -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/SignExtend.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module SignExtend
+-- Compiling module SignExtendTest
+
+Top level modules:
+	SignExtendTest
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Mux.v {1 {vlog -work Education -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Mux.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module MuxTwoToOne32
+-- Compiling module MuxTwoToOne5
+-- Compiling module MuxTwoToOneTest
+
+Top level modules:
+	MuxTwoToOne5
+	MuxTwoToOneTest
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/ALU.v {1 {vlog -work Education -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/ALU.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Alu
+-- Compiling module ExtendedAlu
+-- Compiling module ALUTest
+
+Top level modules:
+	ALUTest
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/FullAdder.v {1 {vlog -work Education -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/FullAdder.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module FullAdder
+-- Compiling module FullAdderTest
+
+Top level modules:
+	FullAdderTest
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/PC.v {1 {vlog -work work -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/PC.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module PC
+-- Compiling module ExtendedPC
+-- Compiling module PCTest
+
+Top level modules:
+	PCTest
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/AluControl.v {1 {vlog -work work -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/AluControl.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module AluControl
+-- Compiling module tb_alu
+
+Top level modules:
+	tb_alu
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Clock.v {1 {vlog -work Education -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Clock.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Clock
+
+Top level modules:
+	Clock
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Experimenting.v {1 {vlog -work Education -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Experimenting.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test
+-- Compiling module TestTest
+
+Top level modules:
+	TestTest
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Memory.v {1 {vlog -work Education -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/Memory.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module DataMemory
+-- Compiling module InstructionMemory
+-- Compiling module InstructionMemoryTest
+-- Compiling module DataMemoryTest
+
+Top level modules:
+	InstructionMemoryTest
+	DataMemoryTest
+
+} {} {}} D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/ShiftRegister.v {1 {vlog -work work -vopt -stats=none D:/Education/University/3rdCSE/CO/Projects/MIPS/Mips/ShiftRegister.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ShiftLeftRegister
+-- Compiling module shiftRegTest
+
+Top level modules:
+	shiftRegTest
+
+} {} {}}

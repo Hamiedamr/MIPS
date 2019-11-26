@@ -1,0 +1,113 @@
+E:/hamied/MIPS/Mips/ControlUnit.v {1 {vlog -work work -stats=none {E:\hamied\MIPS\Mips\ControlUnit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ControlUnit
+-- Compiling module ControlUnit_tb
+
+Top level modules:
+	ControlUnit_tb
+
+} {} {}} E:/hamied/MIPS/Mips/Memory.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/Memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DataMemory
+-- Compiling module InstructionMemory
+-- Compiling module InstructionMemoryTest
+-- Compiling module DataMemoryTest
+
+Top level modules:
+	InstructionMemoryTest
+	DataMemoryTest
+
+} {} {}} E:/hamied/MIPS/Mips/ALU.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Alu
+-- Compiling module ExtendedAlu
+-- Compiling module ALUTest
+
+Top level modules:
+	ALUTest
+
+} {} {}} E:/hamied/MIPS/Mips/Mux.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/Mux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MuxTwoToOne32
+-- Compiling module MuxTwoToOne5
+-- Compiling module MuxTwoToOneTest
+
+Top level modules:
+	MuxTwoToOne5
+	MuxTwoToOneTest
+
+} {} {}} E:/hamied/MIPS/Mips/FullAdder.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/FullAdder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FullAdder
+-- Compiling module FullAdderTest
+
+Top level modules:
+	FullAdderTest
+
+} {} {}} E:/hamied/MIPS/Mips/Clock.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/Clock.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Clock
+
+Top level modules:
+	Clock
+
+} {} {}} E:/hamied/MIPS/Mips/RegisterFile.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/RegisterFile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RegisterFile
+-- Compiling module RegFileTest
+
+Top level modules:
+	RegFileTest
+
+} {} {}} E:/hamied/MIPS/Mips/Experimenting.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/Experimenting.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Test
+-- Compiling module TestTest
+
+Top level modules:
+	TestTest
+
+} {} {}} E:/hamied/MIPS/Mips/Mips.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/Mips.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mips
+-- Compiling module MipsTest
+
+Top level modules:
+	MipsTest
+
+} {} {}} E:/hamied/MIPS/Mips/SignExtend.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/SignExtend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SignExtend
+-- Compiling module SignExtendTest
+
+Top level modules:
+	SignExtendTest
+
+} {} {}} E:/hamied/MIPS/Mips/PC.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/PC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+-- Compiling module ExtendedPC
+-- Compiling module PCTest
+
+Top level modules:
+	PCTest
+
+} {} {}} E:/hamied/MIPS/Mips/AluControl.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/AluControl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AluControl
+-- Compiling module tb_alu
+
+Top level modules:
+	tb_alu
+
+} {} {}} E:/hamied/MIPS/Mips/ShiftRegister.v {1 {vlog -work work -stats=none E:/hamied/MIPS/Mips/ShiftRegister.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ShiftLeftRegister
+-- Compiling module ShiftLeftRegister26
+-- Compiling module shiftRegTest
+
+Top level modules:
+	ShiftLeftRegister26
+	shiftRegTest
+
+} {} {}}

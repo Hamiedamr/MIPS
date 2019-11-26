@@ -1,0 +1,691 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Education/University/3rdCSE/CO/Projects/MIPS/Mips
+vAlu
+Z0 !s110 1574799599
+!i10b 1
+!s100 Ncmaf2JlBkX<lmN8fJ_;G2
+II<o:Ma`C_>Yd1JK`fL>9I1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/hamied/MIPS/Mips
+Z3 w1574767766
+Z4 8E:/hamied/MIPS/Mips/ALU.v
+Z5 FE:/hamied/MIPS/Mips/ALU.v
+L0 1
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1574799599.000000
+Z8 !s107 E:/hamied/MIPS/Mips/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/ALU.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@alu
+vAluControl
+R0
+!i10b 1
+!s100 ZCD^TOG7;Xd=W8?niQza23
+I3UMz@dl_=nZhRXfeOL=mZ2
+R1
+R2
+R3
+Z11 8E:/hamied/MIPS/Mips/AluControl.v
+Z12 FE:/hamied/MIPS/Mips/AluControl.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z13 !s107 E:/hamied/MIPS/Mips/AluControl.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/AluControl.v|
+!s101 -O0
+!i113 1
+R10
+n@alu@control
+vALUTest
+R0
+!i10b 1
+!s100 6A^`n=_?Rf<DDoTdgTjPh0
+IO?9S61EOzOaW[`XW;UbiI0
+R1
+R2
+R3
+R4
+R5
+L0 42
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@a@l@u@test
+vClock
+R0
+!i10b 1
+!s100 0fk_9d=VHT_2>[=@ICPXI2
+I58b50ZA^II:mEejkm<4NY2
+R1
+R2
+R3
+8E:/hamied/MIPS/Mips/Clock.v
+FE:/hamied/MIPS/Mips/Clock.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/hamied/MIPS/Mips/Clock.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/Clock.v|
+!s101 -O0
+!i113 1
+R10
+n@clock
+vControlUnit
+Z15 !s110 1574799600
+!i10b 1
+!s100 Kc5<3=>gZ5^?1[NC2Z7J`0
+IbdJdK=<7DXFYndO7WF_Ie1
+R1
+R2
+Z16 w1574798515
+Z17 8E:\hamied\MIPS\Mips\ControlUnit.v
+Z18 FE:\hamied\MIPS\Mips\ControlUnit.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z19 !s107 E:\hamied\MIPS\Mips\ControlUnit.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|E:\hamied\MIPS\Mips\ControlUnit.v|
+!s101 -O0
+!i113 1
+R10
+n@control@unit
+vControlUnit_tb
+R15
+!i10b 1
+!s100 ZG];0SM:7M7nhjOUk1WjR1
+IkPC3_L;;6lz6NRJK?eJY90
+R1
+R2
+R16
+R17
+R18
+L0 101
+R6
+r1
+!s85 0
+31
+R7
+R19
+R20
+!s101 -O0
+!i113 1
+R10
+n@control@unit_tb
+vDataMemory
+R15
+!i10b 1
+!s100 hTo`09gbkan3?F5T`n1g<3
+I?XAiUdjTPEZ3zlaAZ4`bL1
+R1
+R2
+R3
+Z21 8E:/hamied/MIPS/Mips/Memory.v
+Z22 FE:/hamied/MIPS/Mips/Memory.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z23 !s108 1574799600.000000
+Z24 !s107 E:/hamied/MIPS/Mips/Memory.v|
+Z25 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/Memory.v|
+!s101 -O0
+!i113 1
+R10
+n@data@memory
+vDataMemoryTest
+R15
+!i10b 1
+!s100 g??RTDogEcPbU@?NTGCFb2
+IkFkWeRFLfn3d2Qz^?Gk<]2
+R1
+R2
+R3
+R21
+R22
+Z26 L0 78
+R6
+r1
+!s85 0
+31
+R23
+R24
+R25
+!s101 -O0
+!i113 1
+R10
+n@data@memory@test
+vExtendedAlu
+R0
+!i10b 1
+!s100 X:>WezZd7GiCRZLkMCgAY0
+ILK<nmHzIBQ72U=3TBHBoG0
+R1
+R2
+R3
+R4
+R5
+L0 27
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@extended@alu
+vExtendedPC
+Z27 !s110 1574799601
+!i10b 1
+!s100 KUEE5;EBD_B3JZ?@UY;7@3
+I<E6S;J2773B=X4j;6[JXj0
+R1
+R2
+Z28 w1574799551
+Z29 8E:/hamied/MIPS/Mips/PC.v
+Z30 FE:/hamied/MIPS/Mips/PC.v
+L0 17
+R6
+r1
+!s85 0
+31
+Z31 !s108 1574799601.000000
+Z32 !s107 E:/hamied/MIPS/Mips/PC.v|
+Z33 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/PC.v|
+!s101 -O0
+!i113 1
+R10
+n@extended@p@c
+vFullAdder
+R15
+!i10b 1
+!s100 HV3kER>DYfgH36H8bZ3Q=2
+IK1[Z5J??hH8ETIBE11HjK0
+R1
+R2
+R3
+Z34 8E:/hamied/MIPS/Mips/FullAdder.v
+Z35 FE:/hamied/MIPS/Mips/FullAdder.v
+L0 1
+R6
+r1
+!s85 0
+31
+R23
+Z36 !s107 E:/hamied/MIPS/Mips/FullAdder.v|
+Z37 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/FullAdder.v|
+!s101 -O0
+!i113 1
+R10
+n@full@adder
+vFullAdderTest
+R15
+!i10b 1
+!s100 ehk=BBUBGDIWlW:Qa?IQZ1
+I7:V7QBmcc?ioig@?X^2Xk3
+R1
+R2
+R3
+R34
+R35
+Z38 L0 10
+R6
+r1
+!s85 0
+31
+R23
+R36
+R37
+!s101 -O0
+!i113 1
+R10
+n@full@adder@test
+vInstructionMemory
+R15
+!i10b 1
+!s100 J1hVKIe8;j4Fz9P`UUKf91
+I5UB`IQi`=d=USk9?^=CFf1
+R1
+R2
+R3
+R21
+R22
+L0 36
+R6
+r1
+!s85 0
+31
+R23
+R24
+R25
+!s101 -O0
+!i113 1
+R10
+n@instruction@memory
+vInstructionMemoryTest
+R15
+!i10b 1
+!s100 @AR?ZITY^Gm`@=A1NJ2>D2
+I_bS2aojOchaJKmO5J?L4L2
+R1
+R2
+R3
+R21
+R22
+Z39 L0 55
+R6
+r1
+!s85 0
+31
+R23
+R24
+R25
+!s101 -O0
+!i113 1
+R10
+n@instruction@memory@test
+vMips
+R15
+!i10b 1
+!s100 0aR8I19d^YVai7N7ho[Ba0
+IQ=Io7ImX57NE^z5ia_Dm`0
+R1
+R2
+Z40 w1574799592
+Z41 8E:/hamied/MIPS/Mips/Mips.v
+Z42 FE:/hamied/MIPS/Mips/Mips.v
+L0 2
+R6
+r1
+!s85 0
+31
+R23
+Z43 !s107 E:/hamied/MIPS/Mips/Mips.v|
+Z44 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/Mips.v|
+!s101 -O0
+!i113 1
+R10
+n@mips
+vMipsTest
+R15
+!i10b 1
+!s100 MDRzPZ`UcUiO`zA^zbA9k1
+IAj1V1I0RdUjAZh7mj^Xmf2
+R1
+R2
+R40
+R41
+R42
+R26
+R6
+r1
+!s85 0
+31
+R23
+R43
+R44
+!s101 -O0
+!i113 1
+R10
+n@mips@test
+vMuxTwoToOne32
+R27
+!i10b 1
+!s100 QOAhGBFd;G7DjZZFMX2fo3
+Ig?Iii0VZ0YcYDQaV9[<>l0
+R1
+R2
+R3
+Z45 8E:/hamied/MIPS/Mips/Mux.v
+Z46 FE:/hamied/MIPS/Mips/Mux.v
+L0 2
+R6
+r1
+!s85 0
+31
+R23
+Z47 !s107 E:/hamied/MIPS/Mips/Mux.v|
+Z48 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/Mux.v|
+!s101 -O0
+!i113 1
+R10
+n@mux@two@to@one32
+vMuxTwoToOne5
+R27
+!i10b 1
+!s100 dcC70Bgzl?AQn>lhg^]_]3
+I6nb3l=elNn>NlR40l`joH0
+R1
+R2
+R3
+R45
+R46
+L0 14
+R6
+r1
+!s85 0
+31
+R23
+R47
+R48
+!s101 -O0
+!i113 1
+R10
+n@mux@two@to@one5
+vMuxTwoToOneTest
+R27
+!i10b 1
+!s100 F3lJZNHkT[9W84H:oSMYK0
+Ia4N9QX_nPBKMl5MCHRKen1
+R1
+R2
+R3
+R45
+R46
+L0 25
+R6
+r1
+!s85 0
+31
+R23
+R47
+R48
+!s101 -O0
+!i113 1
+R10
+n@mux@two@to@one@test
+vPC
+R27
+!i10b 1
+!s100 Q]ckz0iRK4O0SnDznkfOX1
+I>lmMCJE1KLEWeQ0c`YHP63
+R1
+R2
+R28
+R29
+R30
+L0 1
+R6
+r1
+!s85 0
+31
+R31
+R32
+R33
+!s101 -O0
+!i113 1
+R10
+n@p@c
+vPCTest
+R27
+!i10b 1
+!s100 Jdmb12o7?heQP4=Y6kAII2
+I_D;@:DHM2znA=S1:c1oJE2
+R1
+R2
+R28
+R29
+R30
+R39
+R6
+r1
+!s85 0
+31
+R31
+R32
+R33
+!s101 -O0
+!i113 1
+R10
+n@p@c@test
+vRegFileTest
+R27
+!i10b 1
+!s100 W_6ez7TS`g3z_E`?VYe2c2
+IOeGbP=O0J13lbz:J:T<1`0
+R1
+R2
+R3
+Z49 8E:/hamied/MIPS/Mips/RegisterFile.v
+Z50 FE:/hamied/MIPS/Mips/RegisterFile.v
+L0 34
+R6
+r1
+!s85 0
+31
+R31
+Z51 !s107 E:/hamied/MIPS/Mips/RegisterFile.v|
+Z52 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/RegisterFile.v|
+!s101 -O0
+!i113 1
+R10
+n@reg@file@test
+vRegisterFile
+R27
+!i10b 1
+!s100 ^O[^OBeTW9g2oS5WP3jTE2
+I=58UJR:BfX:UKFXBK=`:]1
+R1
+R2
+R3
+R49
+R50
+L0 1
+R6
+r1
+!s85 0
+31
+R31
+R51
+R52
+!s101 -O0
+!i113 1
+R10
+n@register@file
+vShiftLeftRegister
+R27
+!i10b 1
+!s100 n0DT38W1@l<:HikP65ieA2
+IN:3kbG@PRfAY08BRZm:;;1
+R1
+R2
+Z53 w1574793610
+Z54 8E:/hamied/MIPS/Mips/ShiftRegister.v
+Z55 FE:/hamied/MIPS/Mips/ShiftRegister.v
+L0 1
+R6
+r1
+!s85 0
+31
+R31
+Z56 !s107 E:/hamied/MIPS/Mips/ShiftRegister.v|
+Z57 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/ShiftRegister.v|
+!s101 -O0
+!i113 1
+R10
+n@shift@left@register
+vShiftLeftRegister26
+R27
+!i10b 1
+!s100 O]=AAiDjiJZ;YUQlMbazi3
+IUjf1Z?fo3Xk5m0ha[Tz9E3
+R1
+R2
+R53
+R54
+R55
+L0 8
+R6
+r1
+!s85 0
+31
+R31
+R56
+R57
+!s101 -O0
+!i113 1
+R10
+n@shift@left@register26
+vshiftRegTest
+R27
+!i10b 1
+!s100 nWj>J_@E]=oRS?XFIMF2Y2
+IQ3Bh2K^cBAXU2I`k[58V[3
+R1
+R2
+R53
+R54
+R55
+L0 16
+R6
+r1
+!s85 0
+31
+R31
+R56
+R57
+!s101 -O0
+!i113 1
+R10
+nshift@reg@test
+vSignExtend
+R0
+!i10b 1
+!s100 Y?LEn?1e5k>0?hJXe3YIA2
+IMC[?jg35C81;cDNn;P3[41
+R1
+R2
+R3
+Z58 8E:/hamied/MIPS/Mips/SignExtend.v
+Z59 FE:/hamied/MIPS/Mips/SignExtend.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z60 !s107 E:/hamied/MIPS/Mips/SignExtend.v|
+Z61 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/SignExtend.v|
+!s101 -O0
+!i113 1
+R10
+n@sign@extend
+vSignExtendTest
+R0
+!i10b 1
+!s100 4h>J3;f@FkdQZ@1ETnTD[0
+ITkz;8hL9jo?:]JB9UOI[g1
+R1
+R2
+R3
+R58
+R59
+R38
+R6
+r1
+!s85 0
+31
+R7
+R60
+R61
+!s101 -O0
+!i113 1
+R10
+n@sign@extend@test
+vtb_alu
+R0
+!i10b 1
+!s100 J;5Lm^m1cYkagVeElalgc0
+IZJDlGb<B8h^acREebn6nR3
+R1
+R2
+R3
+R11
+R12
+L0 33
+R6
+r1
+!s85 0
+31
+R7
+R13
+R14
+!s101 -O0
+!i113 1
+R10
+vTest
+R15
+!i10b 1
+!s100 X5DfW5CUllb[E29Dj;]C30
+I;IhN_e[UZ??DLPaFa;FiI1
+R1
+R2
+R3
+Z62 8E:/hamied/MIPS/Mips/Experimenting.v
+Z63 FE:/hamied/MIPS/Mips/Experimenting.v
+L0 1
+R6
+r1
+!s85 0
+31
+R23
+Z64 !s107 E:/hamied/MIPS/Mips/Experimenting.v|
+Z65 !s90 -reportprogress|300|-work|work|-stats=none|E:/hamied/MIPS/Mips/Experimenting.v|
+!s101 -O0
+!i113 1
+R10
+n@test
+vTestTest
+R15
+!i10b 1
+!s100 DSSaf@7WSKEB[2SkHFY^k2
+IV@`;jD726aAedYh6_cAKU1
+R1
+R2
+R3
+R62
+R63
+R38
+R6
+r1
+!s85 0
+31
+R23
+R64
+R65
+!s101 -O0
+!i113 1
+R10
+n@test@test
